@@ -1,2 +1,5 @@
 # Civic-Voice
-This project is a community-driven platform designed to empower citizens to raise their voices about everyday civic issues such as high traffic, pollution, poor roads and city management, water quality, hygeine issues, cleniness, etc. The platform aims to bridge the gap between the public and local authorities by making issues more visible.
+This project is a community-driven platform designed to empower citizens to raise their voices about everyday civic issues such as high traffic, pollution, poor roads and city management, water quality, hygiene issues, cleanliness, etc. It provides a structured space where users can report problems, share suggestions, and highlight concerns affecting their local areas.
+The platform aims to bridge the gap between the public and local authorities by making issues more visible and organized. Users can support important concerns through engagement features like upvotes and discussions, helping prioritize problems that require immediate attention.
+By promoting transparency, accountability, and community participation, this project encourages collaborative problem-solving and contributes to building safer, cleaner, and more efficient urban environments.
+It aims to make everyone aware of the local issues and find solutions to them. It creates a way to reach out the authorities with your concerns.
